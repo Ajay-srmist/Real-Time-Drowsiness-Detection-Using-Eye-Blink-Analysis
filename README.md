@@ -8,8 +8,8 @@ Drowsy: Slow or partial blinks.
 Active: Eyes open with normal blink patterns.
 This project can be particularly useful for monitoring drivers, machine operators, or anyone who needs to stay alert in a critical environment.
 # Features
-. Face Detection: Detects faces in real-time using Dlib's pre-trained face detector.
-. Eye Blink Detection: Tracks specific eye landmarks to compute the blink ratio.
-. Drowsiness Classification: Classifies the user's state into Sleeping, Drowsy, or Active based on eye movement.
-. Real-Time Feedback: Displays the current state on the live video feed.
-. User Alerts: Changes the color and status message based on the user’s alertness.
+- Face Detection: Detects faces in real-time using Dlib's pre-trained face detector
+- Eye Blink Detection: Tracks specific eye landmarks to compute the blink ratio
+- Drowsiness Classification: Classifies the user's state into Sleeping, Drowsy, or Active based on eye movement
+- Real-Time Feedback: Displays the current state on the live video feed
+- User Alerts: Changes the color and status message based on the user’s alertness.
